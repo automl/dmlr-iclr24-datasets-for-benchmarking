@@ -1,0 +1,8 @@
+{
+    "n_configs": 0,
+    "output_dir": "/Users/ravinkohli/work/tabular_data_experiments/configs",
+    "seed": 42,
+    "include_models": [
+        "tree"
+    ]
+}

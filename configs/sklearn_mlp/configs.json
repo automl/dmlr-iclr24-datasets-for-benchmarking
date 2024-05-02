@@ -1,0 +1,3611 @@
+{
+    "1": {
+        "activation": "relu",
+        "alpha": 0.0001,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.001,
+        "num_nodes_per_layer": 32
+    },
+    "2": {
+        "activation": "tanh",
+        "alpha": 0.0506157688875231,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00037758875456826864,
+        "num_nodes_per_layer": 18
+    },
+    "3": {
+        "activation": "relu",
+        "alpha": 0.0004042872735027335,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.11999975480350802,
+        "num_nodes_per_layer": 28
+    },
+    "4": {
+        "activation": "tanh",
+        "alpha": 1.260163972327679e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0011946697137851401,
+        "num_nodes_per_layer": 88
+    },
+    "5": {
+        "activation": "tanh",
+        "alpha": 5.6606706992588876e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0005477562363971308,
+        "num_nodes_per_layer": 67
+    },
+    "6": {
+        "activation": "relu",
+        "alpha": 1.899776347411126e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.3235185145617433,
+        "num_nodes_per_layer": 240
+    },
+    "7": {
+        "activation": "relu",
+        "alpha": 6.724850206557247e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00028275856573117597,
+        "num_nodes_per_layer": 63
+    },
+    "8": {
+        "activation": "tanh",
+        "alpha": 0.02857080075040725,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.008389112347840602,
+        "num_nodes_per_layer": 73
+    },
+    "9": {
+        "activation": "tanh",
+        "alpha": 0.06569128640939181,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.01627848888091436,
+        "num_nodes_per_layer": 212
+    },
+    "10": {
+        "activation": "tanh",
+        "alpha": 1.4993298055091545e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.001008583663099293,
+        "num_nodes_per_layer": 163
+    },
+    "11": {
+        "activation": "tanh",
+        "alpha": 4.848496183873293e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00018869508789698286,
+        "num_nodes_per_layer": 255
+    },
+    "12": {
+        "activation": "relu",
+        "alpha": 1.5570196345516583e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.04972509797814942,
+        "num_nodes_per_layer": 138
+    },
+    "13": {
+        "activation": "tanh",
+        "alpha": 1.415123591905372e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0016748729494641614,
+        "num_nodes_per_layer": 19
+    },
+    "14": {
+        "activation": "tanh",
+        "alpha": 8.935110590331853e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.005580959150991872,
+        "num_nodes_per_layer": 22
+    },
+    "15": {
+        "activation": "relu",
+        "alpha": 0.003670373762529386,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.008581694621646053,
+        "num_nodes_per_layer": 52
+    },
+    "16": {
+        "activation": "tanh",
+        "alpha": 4.439648242927523e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.007606550128725069,
+        "num_nodes_per_layer": 203
+    },
+    "17": {
+        "activation": "tanh",
+        "alpha": 2.8993292583566958e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0011797281245016895,
+        "num_nodes_per_layer": 24
+    },
+    "18": {
+        "activation": "relu",
+        "alpha": 0.0070586602273686495,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0004899108428855477,
+        "num_nodes_per_layer": 195
+    },
+    "19": {
+        "activation": "relu",
+        "alpha": 0.006992636148959315,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0006968275763613312,
+        "num_nodes_per_layer": 52
+    },
+    "20": {
+        "activation": "relu",
+        "alpha": 0.0146010302101595,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0006630864123680924,
+        "num_nodes_per_layer": 22
+    },
+    "21": {
+        "activation": "tanh",
+        "alpha": 0.04544208225488326,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0022133749571579754,
+        "num_nodes_per_layer": 244
+    },
+    "22": {
+        "activation": "relu",
+        "alpha": 3.2411100309991723e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0001369126926631843,
+        "num_nodes_per_layer": 87
+    },
+    "23": {
+        "activation": "relu",
+        "alpha": 2.036444166653216e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00034352771894818256,
+        "num_nodes_per_layer": 62
+    },
+    "24": {
+        "activation": "relu",
+        "alpha": 2.8335548841697705e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.04939129693562082,
+        "num_nodes_per_layer": 44
+    },
+    "25": {
+        "activation": "relu",
+        "alpha": 0.0006326714903289287,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0015365823428370618,
+        "num_nodes_per_layer": 26
+    },
+    "26": {
+        "activation": "tanh",
+        "alpha": 0.0003510408513301915,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.000688336942729788,
+        "num_nodes_per_layer": 97
+    },
+    "27": {
+        "activation": "tanh",
+        "alpha": 0.001398383943321135,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0018263928656552764,
+        "num_nodes_per_layer": 21
+    },
+    "28": {
+        "activation": "relu",
+        "alpha": 0.018366910946529074,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.01131543224515012,
+        "num_nodes_per_layer": 70
+    },
+    "29": {
+        "activation": "tanh",
+        "alpha": 3.619233530807125e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0017949858430218195,
+        "num_nodes_per_layer": 42
+    },
+    "30": {
+        "activation": "relu",
+        "alpha": 0.024135792291304005,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0002047534398773686,
+        "num_nodes_per_layer": 25
+    },
+    "31": {
+        "activation": "relu",
+        "alpha": 0.00043508524760275594,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00010440532432825334,
+        "num_nodes_per_layer": 24
+    },
+    "32": {
+        "activation": "relu",
+        "alpha": 0.0014170043587602825,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0007543575792938654,
+        "num_nodes_per_layer": 39
+    },
+    "33": {
+        "activation": "relu",
+        "alpha": 0.0007903098490824649,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00022207524829892137,
+        "num_nodes_per_layer": 44
+    },
+    "34": {
+        "activation": "tanh",
+        "alpha": 2.9103006766169227e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.021605426612345,
+        "num_nodes_per_layer": 148
+    },
+    "35": {
+        "activation": "relu",
+        "alpha": 0.0002893498807797732,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0010928701063419976,
+        "num_nodes_per_layer": 17
+    },
+    "36": {
+        "activation": "relu",
+        "alpha": 1.1552183437118106e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0023399465063289244,
+        "num_nodes_per_layer": 16
+    },
+    "37": {
+        "activation": "relu",
+        "alpha": 3.7077025863479806e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.001227884789577207,
+        "num_nodes_per_layer": 46
+    },
+    "38": {
+        "activation": "relu",
+        "alpha": 7.971352803055305e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.037548564643339,
+        "num_nodes_per_layer": 78
+    },
+    "39": {
+        "activation": "tanh",
+        "alpha": 0.0004898277215907769,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.17594489713604378,
+        "num_nodes_per_layer": 127
+    },
+    "40": {
+        "activation": "relu",
+        "alpha": 0.0016402290671101009,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.09921678428921375,
+        "num_nodes_per_layer": 181
+    },
+    "41": {
+        "activation": "relu",
+        "alpha": 0.00011696458740181155,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.03949611902644749,
+        "num_nodes_per_layer": 148
+    },
+    "42": {
+        "activation": "relu",
+        "alpha": 1.0665247570647046e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00013581551746635548,
+        "num_nodes_per_layer": 58
+    },
+    "43": {
+        "activation": "relu",
+        "alpha": 5.238989315858803e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.11035062555482743,
+        "num_nodes_per_layer": 43
+    },
+    "44": {
+        "activation": "tanh",
+        "alpha": 0.00013597515430584505,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0002068700945567177,
+        "num_nodes_per_layer": 18
+    },
+    "45": {
+        "activation": "relu",
+        "alpha": 0.00017531163078518972,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00812417933574209,
+        "num_nodes_per_layer": 39
+    },
+    "46": {
+        "activation": "relu",
+        "alpha": 4.216901993799506e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.3637538600418916,
+        "num_nodes_per_layer": 166
+    },
+    "47": {
+        "activation": "relu",
+        "alpha": 2.84261253292327e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.010754072458520425,
+        "num_nodes_per_layer": 118
+    },
+    "48": {
+        "activation": "relu",
+        "alpha": 4.78193184148526e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.018312038441157943,
+        "num_nodes_per_layer": 51
+    },
+    "49": {
+        "activation": "tanh",
+        "alpha": 1.367212662307596e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00014796615651266605,
+        "num_nodes_per_layer": 17
+    },
+    "50": {
+        "activation": "relu",
+        "alpha": 0.0016670443589841212,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.005641023098070262,
+        "num_nodes_per_layer": 25
+    },
+    "51": {
+        "activation": "tanh",
+        "alpha": 2.4605285374226056e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.002430417170500769,
+        "num_nodes_per_layer": 92
+    },
+    "52": {
+        "activation": "relu",
+        "alpha": 0.013770161922515109,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.02378425981030794,
+        "num_nodes_per_layer": 17
+    },
+    "53": {
+        "activation": "relu",
+        "alpha": 0.04379065573976715,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.004955228619386853,
+        "num_nodes_per_layer": 73
+    },
+    "54": {
+        "activation": "relu",
+        "alpha": 2.0730788782234177e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00018053664662337742,
+        "num_nodes_per_layer": 21
+    },
+    "55": {
+        "activation": "tanh",
+        "alpha": 3.686869490609952e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.13340387128537154,
+        "num_nodes_per_layer": 17
+    },
+    "56": {
+        "activation": "relu",
+        "alpha": 4.91053316604547e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.17609322922159207,
+        "num_nodes_per_layer": 125
+    },
+    "57": {
+        "activation": "relu",
+        "alpha": 4.9227460846068764e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.4611570043845164,
+        "num_nodes_per_layer": 50
+    },
+    "58": {
+        "activation": "tanh",
+        "alpha": 0.004554888648843787,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.003862211381218037,
+        "num_nodes_per_layer": 130
+    },
+    "59": {
+        "activation": "relu",
+        "alpha": 4.156647661004858e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0015270521686821703,
+        "num_nodes_per_layer": 197
+    },
+    "60": {
+        "activation": "tanh",
+        "alpha": 1.1615179049175118e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.32677642589333017,
+        "num_nodes_per_layer": 230
+    },
+    "61": {
+        "activation": "relu",
+        "alpha": 0.0006180495193542575,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.030734460662283365,
+        "num_nodes_per_layer": 131
+    },
+    "62": {
+        "activation": "relu",
+        "alpha": 0.005466493760921561,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.010781789591223586,
+        "num_nodes_per_layer": 54
+    },
+    "63": {
+        "activation": "relu",
+        "alpha": 1.2749409641020358e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.01935397039295073,
+        "num_nodes_per_layer": 21
+    },
+    "64": {
+        "activation": "tanh",
+        "alpha": 0.0016062560954780457,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00019994322806980665,
+        "num_nodes_per_layer": 20
+    },
+    "65": {
+        "activation": "relu",
+        "alpha": 1.760454376714872e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.4438010846612993,
+        "num_nodes_per_layer": 131
+    },
+    "66": {
+        "activation": "tanh",
+        "alpha": 3.169598846855011e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.22520482124120328,
+        "num_nodes_per_layer": 21
+    },
+    "67": {
+        "activation": "tanh",
+        "alpha": 1.1698276136056561e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00027209844605808594,
+        "num_nodes_per_layer": 98
+    },
+    "68": {
+        "activation": "relu",
+        "alpha": 0.0003163825999019023,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.16327591302044728,
+        "num_nodes_per_layer": 29
+    },
+    "69": {
+        "activation": "relu",
+        "alpha": 1.1828423028976328e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.008952628715745927,
+        "num_nodes_per_layer": 259
+    },
+    "70": {
+        "activation": "tanh",
+        "alpha": 0.00021043874659437662,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.03745877158486838,
+        "num_nodes_per_layer": 56
+    },
+    "71": {
+        "activation": "relu",
+        "alpha": 0.00032054268581070244,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.3277506573304258,
+        "num_nodes_per_layer": 194
+    },
+    "72": {
+        "activation": "tanh",
+        "alpha": 0.0005257697394903169,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.002027866180735611,
+        "num_nodes_per_layer": 81
+    },
+    "73": {
+        "activation": "tanh",
+        "alpha": 0.07020512969646499,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0013961541389913385,
+        "num_nodes_per_layer": 156
+    },
+    "74": {
+        "activation": "relu",
+        "alpha": 9.455873117968523e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.048352027881652326,
+        "num_nodes_per_layer": 88
+    },
+    "75": {
+        "activation": "tanh",
+        "alpha": 0.03947943239814272,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0024690319042149403,
+        "num_nodes_per_layer": 155
+    },
+    "76": {
+        "activation": "relu",
+        "alpha": 7.989164188715563e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.13030846734753804,
+        "num_nodes_per_layer": 167
+    },
+    "77": {
+        "activation": "tanh",
+        "alpha": 3.0825988639909756e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.1016006413133813,
+        "num_nodes_per_layer": 264
+    },
+    "78": {
+        "activation": "relu",
+        "alpha": 0.0002150751495803587,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0008221162053183794,
+        "num_nodes_per_layer": 56
+    },
+    "79": {
+        "activation": "tanh",
+        "alpha": 0.053003697112209,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.019339169520148868,
+        "num_nodes_per_layer": 43
+    },
+    "80": {
+        "activation": "tanh",
+        "alpha": 0.0010701364911724948,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.14196909305515312,
+        "num_nodes_per_layer": 74
+    },
+    "81": {
+        "activation": "relu",
+        "alpha": 0.018193724578178434,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.06211980129915846,
+        "num_nodes_per_layer": 90
+    },
+    "82": {
+        "activation": "relu",
+        "alpha": 1.8957670432509345e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.015208550658102024,
+        "num_nodes_per_layer": 47
+    },
+    "83": {
+        "activation": "tanh",
+        "alpha": 0.026604320246386103,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0029295428667942816,
+        "num_nodes_per_layer": 91
+    },
+    "84": {
+        "activation": "relu",
+        "alpha": 0.04978789236005674,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0009020658589276662,
+        "num_nodes_per_layer": 57
+    },
+    "85": {
+        "activation": "relu",
+        "alpha": 9.030432774797573e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00019081660959945299,
+        "num_nodes_per_layer": 22
+    },
+    "86": {
+        "activation": "tanh",
+        "alpha": 8.154853455390447e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0018993846001082392,
+        "num_nodes_per_layer": 197
+    },
+    "87": {
+        "activation": "tanh",
+        "alpha": 0.0010123867001105963,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0004215855637148416,
+        "num_nodes_per_layer": 34
+    },
+    "88": {
+        "activation": "tanh",
+        "alpha": 3.4057691130366376e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.002225477918451495,
+        "num_nodes_per_layer": 65
+    },
+    "89": {
+        "activation": "relu",
+        "alpha": 1.721364487535961e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.170349603478127,
+        "num_nodes_per_layer": 211
+    },
+    "90": {
+        "activation": "tanh",
+        "alpha": 4.584224616164973e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0005948080909725837,
+        "num_nodes_per_layer": 44
+    },
+    "91": {
+        "activation": "tanh",
+        "alpha": 0.0005123050408771837,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00013667530985708712,
+        "num_nodes_per_layer": 32
+    },
+    "92": {
+        "activation": "relu",
+        "alpha": 0.02350937189409865,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.004518194519558301,
+        "num_nodes_per_layer": 70
+    },
+    "93": {
+        "activation": "tanh",
+        "alpha": 4.125336560355492e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0006055358154907596,
+        "num_nodes_per_layer": 39
+    },
+    "94": {
+        "activation": "tanh",
+        "alpha": 0.022037568966840185,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.006977867888691916,
+        "num_nodes_per_layer": 20
+    },
+    "95": {
+        "activation": "relu",
+        "alpha": 0.00033193015453288966,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0011211883165450694,
+        "num_nodes_per_layer": 43
+    },
+    "96": {
+        "activation": "relu",
+        "alpha": 0.0002658703014708268,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0007542143424252939,
+        "num_nodes_per_layer": 21
+    },
+    "97": {
+        "activation": "tanh",
+        "alpha": 2.9905176524130616e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00043782819799283585,
+        "num_nodes_per_layer": 197
+    },
+    "98": {
+        "activation": "tanh",
+        "alpha": 0.00014030344584930554,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.002962483409761829,
+        "num_nodes_per_layer": 243
+    },
+    "99": {
+        "activation": "relu",
+        "alpha": 0.007987896438549958,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.2739894916113312,
+        "num_nodes_per_layer": 75
+    },
+    "100": {
+        "activation": "relu",
+        "alpha": 4.7849186871472984e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.003746939020163989,
+        "num_nodes_per_layer": 65
+    },
+    "101": {
+        "activation": "tanh",
+        "alpha": 4.88675930328898e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00037237717560602865,
+        "num_nodes_per_layer": 61
+    },
+    "102": {
+        "activation": "relu",
+        "alpha": 2.046167681873822e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.4590216873580562,
+        "num_nodes_per_layer": 39
+    },
+    "103": {
+        "activation": "relu",
+        "alpha": 3.3716612026494806e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0055506798145173114,
+        "num_nodes_per_layer": 50
+    },
+    "104": {
+        "activation": "tanh",
+        "alpha": 0.03777242482083701,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.05051924691183999,
+        "num_nodes_per_layer": 222
+    },
+    "105": {
+        "activation": "tanh",
+        "alpha": 2.5059800207366565e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0003288621021625506,
+        "num_nodes_per_layer": 148
+    },
+    "106": {
+        "activation": "tanh",
+        "alpha": 9.592585022500688e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.008606039132417212,
+        "num_nodes_per_layer": 43
+    },
+    "107": {
+        "activation": "relu",
+        "alpha": 2.2629275226551158e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.005145631114274518,
+        "num_nodes_per_layer": 36
+    },
+    "108": {
+        "activation": "relu",
+        "alpha": 0.00010382987724364487,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.010246740293519354,
+        "num_nodes_per_layer": 203
+    },
+    "109": {
+        "activation": "relu",
+        "alpha": 5.02791867217319e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00032746374119285504,
+        "num_nodes_per_layer": 147
+    },
+    "110": {
+        "activation": "relu",
+        "alpha": 0.00015876930798318107,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0014224944429150873,
+        "num_nodes_per_layer": 31
+    },
+    "111": {
+        "activation": "relu",
+        "alpha": 1.5892587397738827e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0018422566273439394,
+        "num_nodes_per_layer": 159
+    },
+    "112": {
+        "activation": "tanh",
+        "alpha": 0.011987089568039483,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0003585420249145126,
+        "num_nodes_per_layer": 30
+    },
+    "113": {
+        "activation": "relu",
+        "alpha": 0.0020903510132454306,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0008538806382093689,
+        "num_nodes_per_layer": 41
+    },
+    "114": {
+        "activation": "tanh",
+        "alpha": 0.028229511829937326,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.3191336936987194,
+        "num_nodes_per_layer": 24
+    },
+    "115": {
+        "activation": "relu",
+        "alpha": 0.00010847560307977212,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.2804642865473499,
+        "num_nodes_per_layer": 77
+    },
+    "116": {
+        "activation": "relu",
+        "alpha": 0.03427648561166514,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.017547722496083756,
+        "num_nodes_per_layer": 52
+    },
+    "117": {
+        "activation": "relu",
+        "alpha": 0.04038332634638237,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.4394384498340975,
+        "num_nodes_per_layer": 167
+    },
+    "118": {
+        "activation": "tanh",
+        "alpha": 0.03350050051748391,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.002991569062318927,
+        "num_nodes_per_layer": 18
+    },
+    "119": {
+        "activation": "tanh",
+        "alpha": 0.0065632763615156315,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.009723222315225636,
+        "num_nodes_per_layer": 211
+    },
+    "120": {
+        "activation": "tanh",
+        "alpha": 1.207033187902985e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.004715852347482245,
+        "num_nodes_per_layer": 23
+    },
+    "121": {
+        "activation": "tanh",
+        "alpha": 9.777022990836094e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.014046848309526473,
+        "num_nodes_per_layer": 93
+    },
+    "122": {
+        "activation": "tanh",
+        "alpha": 0.0009576884111139553,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0034172928408284006,
+        "num_nodes_per_layer": 20
+    },
+    "123": {
+        "activation": "relu",
+        "alpha": 0.0001030789680310897,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0005976328931219997,
+        "num_nodes_per_layer": 198
+    },
+    "124": {
+        "activation": "tanh",
+        "alpha": 1.39356209179847e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00017500654309598605,
+        "num_nodes_per_layer": 140
+    },
+    "125": {
+        "activation": "tanh",
+        "alpha": 0.0001400688670825512,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0003751707860133773,
+        "num_nodes_per_layer": 26
+    },
+    "126": {
+        "activation": "relu",
+        "alpha": 0.047499908474412655,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0032500903832373322,
+        "num_nodes_per_layer": 17
+    },
+    "127": {
+        "activation": "tanh",
+        "alpha": 0.0019762112764181525,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0007157127291607304,
+        "num_nodes_per_layer": 104
+    },
+    "128": {
+        "activation": "tanh",
+        "alpha": 4.213582405709723e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0007603804856623341,
+        "num_nodes_per_layer": 21
+    },
+    "129": {
+        "activation": "tanh",
+        "alpha": 0.002155765866149538,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.02959558170577521,
+        "num_nodes_per_layer": 28
+    },
+    "130": {
+        "activation": "tanh",
+        "alpha": 0.023878932677629607,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0001253550476416716,
+        "num_nodes_per_layer": 26
+    },
+    "131": {
+        "activation": "relu",
+        "alpha": 3.37712630454096e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0009111701812582912,
+        "num_nodes_per_layer": 46
+    },
+    "132": {
+        "activation": "relu",
+        "alpha": 4.058652276890506e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00410410959338569,
+        "num_nodes_per_layer": 36
+    },
+    "133": {
+        "activation": "relu",
+        "alpha": 0.003816231965566084,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.20366755725631921,
+        "num_nodes_per_layer": 150
+    },
+    "134": {
+        "activation": "tanh",
+        "alpha": 1.3640046470269718e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0008993294449933691,
+        "num_nodes_per_layer": 23
+    },
+    "135": {
+        "activation": "relu",
+        "alpha": 0.08061448506535886,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00011695709183303613,
+        "num_nodes_per_layer": 207
+    },
+    "136": {
+        "activation": "tanh",
+        "alpha": 0.0002878053435919745,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.11727084196660416,
+        "num_nodes_per_layer": 28
+    },
+    "137": {
+        "activation": "tanh",
+        "alpha": 6.626951320510574e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.01664538535277464,
+        "num_nodes_per_layer": 102
+    },
+    "138": {
+        "activation": "tanh",
+        "alpha": 0.03065290756308079,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00014918518676636133,
+        "num_nodes_per_layer": 25
+    },
+    "139": {
+        "activation": "relu",
+        "alpha": 3.1390050005726947e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0011691479506883247,
+        "num_nodes_per_layer": 43
+    },
+    "140": {
+        "activation": "relu",
+        "alpha": 6.063596501877799e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.29194773143162506,
+        "num_nodes_per_layer": 124
+    },
+    "141": {
+        "activation": "tanh",
+        "alpha": 1.538504639953215e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00685557457660898,
+        "num_nodes_per_layer": 84
+    },
+    "142": {
+        "activation": "tanh",
+        "alpha": 0.004221562491370549,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.006804677013102567,
+        "num_nodes_per_layer": 109
+    },
+    "143": {
+        "activation": "tanh",
+        "alpha": 3.0089307970358616e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0010154456872925285,
+        "num_nodes_per_layer": 83
+    },
+    "144": {
+        "activation": "tanh",
+        "alpha": 3.543989609792359e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00446438845050664,
+        "num_nodes_per_layer": 26
+    },
+    "145": {
+        "activation": "relu",
+        "alpha": 0.017285224131410506,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.03636723198083901,
+        "num_nodes_per_layer": 172
+    },
+    "146": {
+        "activation": "tanh",
+        "alpha": 8.640717009254881e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0001399067256672208,
+        "num_nodes_per_layer": 115
+    },
+    "147": {
+        "activation": "relu",
+        "alpha": 1.2118589392553815e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.037995892385164355,
+        "num_nodes_per_layer": 36
+    },
+    "148": {
+        "activation": "relu",
+        "alpha": 0.06704238735905631,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.13303407441580054,
+        "num_nodes_per_layer": 38
+    },
+    "149": {
+        "activation": "relu",
+        "alpha": 1.6674230788812193e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00019259614256841338,
+        "num_nodes_per_layer": 112
+    },
+    "150": {
+        "activation": "tanh",
+        "alpha": 0.0022315192067234656,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.08411264083413775,
+        "num_nodes_per_layer": 38
+    },
+    "151": {
+        "activation": "relu",
+        "alpha": 0.02069505044829567,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.16537491552957562,
+        "num_nodes_per_layer": 16
+    },
+    "152": {
+        "activation": "relu",
+        "alpha": 0.00014914984424236477,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00198277066777661,
+        "num_nodes_per_layer": 137
+    },
+    "153": {
+        "activation": "tanh",
+        "alpha": 7.57275178156397e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.06947368145276583,
+        "num_nodes_per_layer": 51
+    },
+    "154": {
+        "activation": "tanh",
+        "alpha": 0.0026637521271705047,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0011547511786571454,
+        "num_nodes_per_layer": 36
+    },
+    "155": {
+        "activation": "tanh",
+        "alpha": 1.7887890916820482e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0026400535722577944,
+        "num_nodes_per_layer": 107
+    },
+    "156": {
+        "activation": "tanh",
+        "alpha": 0.050091853723689725,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.17857976615584314,
+        "num_nodes_per_layer": 226
+    },
+    "157": {
+        "activation": "tanh",
+        "alpha": 0.0004791465167034434,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.30699871287885744,
+        "num_nodes_per_layer": 98
+    },
+    "158": {
+        "activation": "relu",
+        "alpha": 0.00011916015682138749,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0004893612077460334,
+        "num_nodes_per_layer": 142
+    },
+    "159": {
+        "activation": "tanh",
+        "alpha": 2.2235968973360075e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.47877800752284844,
+        "num_nodes_per_layer": 25
+    },
+    "160": {
+        "activation": "tanh",
+        "alpha": 0.0035434870850299923,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0006763927485495711,
+        "num_nodes_per_layer": 29
+    },
+    "161": {
+        "activation": "relu",
+        "alpha": 0.00036111007799630146,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00096038770313382,
+        "num_nodes_per_layer": 22
+    },
+    "162": {
+        "activation": "relu",
+        "alpha": 0.05418873207576826,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.010904478249081865,
+        "num_nodes_per_layer": 20
+    },
+    "163": {
+        "activation": "tanh",
+        "alpha": 1.722388440253785e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00019942863724793967,
+        "num_nodes_per_layer": 29
+    },
+    "164": {
+        "activation": "relu",
+        "alpha": 2.862761427444696e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.01553454815874523,
+        "num_nodes_per_layer": 161
+    },
+    "165": {
+        "activation": "tanh",
+        "alpha": 0.0011697604007727199,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.08905430826831875,
+        "num_nodes_per_layer": 100
+    },
+    "166": {
+        "activation": "relu",
+        "alpha": 0.01598693487328967,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.03279595738862564,
+        "num_nodes_per_layer": 90
+    },
+    "167": {
+        "activation": "relu",
+        "alpha": 8.946035799394679e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.11341523302216408,
+        "num_nodes_per_layer": 22
+    },
+    "168": {
+        "activation": "tanh",
+        "alpha": 0.002891009626236326,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0075354280135584905,
+        "num_nodes_per_layer": 16
+    },
+    "169": {
+        "activation": "tanh",
+        "alpha": 0.0005029925009388796,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.022139513755247267,
+        "num_nodes_per_layer": 72
+    },
+    "170": {
+        "activation": "relu",
+        "alpha": 4.384134133012796e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0018389710291797656,
+        "num_nodes_per_layer": 93
+    },
+    "171": {
+        "activation": "relu",
+        "alpha": 4.1215290755463183e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0012979417626267043,
+        "num_nodes_per_layer": 116
+    },
+    "172": {
+        "activation": "tanh",
+        "alpha": 0.00031118794241675866,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.16741273968839557,
+        "num_nodes_per_layer": 245
+    },
+    "173": {
+        "activation": "relu",
+        "alpha": 0.0031471032427519657,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00012073532444278857,
+        "num_nodes_per_layer": 39
+    },
+    "174": {
+        "activation": "tanh",
+        "alpha": 0.004192224259816189,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.4879031439995462,
+        "num_nodes_per_layer": 52
+    },
+    "175": {
+        "activation": "tanh",
+        "alpha": 9.588328995196622e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00020170887940237206,
+        "num_nodes_per_layer": 107
+    },
+    "176": {
+        "activation": "relu",
+        "alpha": 4.360709560327295e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.30931927552037897,
+        "num_nodes_per_layer": 51
+    },
+    "177": {
+        "activation": "relu",
+        "alpha": 2.4297768378373997e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.2028832229333957,
+        "num_nodes_per_layer": 30
+    },
+    "178": {
+        "activation": "tanh",
+        "alpha": 1.5374623779966897e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.005628455678986206,
+        "num_nodes_per_layer": 242
+    },
+    "179": {
+        "activation": "tanh",
+        "alpha": 0.016283171900943017,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.06531379444197971,
+        "num_nodes_per_layer": 92
+    },
+    "180": {
+        "activation": "tanh",
+        "alpha": 1.567317839883979e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.006041388084292078,
+        "num_nodes_per_layer": 22
+    },
+    "181": {
+        "activation": "tanh",
+        "alpha": 0.0012983498239006433,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0001727853560456162,
+        "num_nodes_per_layer": 81
+    },
+    "182": {
+        "activation": "tanh",
+        "alpha": 0.006100347906939381,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00018534414226418976,
+        "num_nodes_per_layer": 47
+    },
+    "183": {
+        "activation": "tanh",
+        "alpha": 0.00039822020235865725,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.07667352248141153,
+        "num_nodes_per_layer": 17
+    },
+    "184": {
+        "activation": "tanh",
+        "alpha": 4.2616822972541875e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.007004422188884845,
+        "num_nodes_per_layer": 90
+    },
+    "185": {
+        "activation": "relu",
+        "alpha": 0.00022797755986596812,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0002113564689402808,
+        "num_nodes_per_layer": 42
+    },
+    "186": {
+        "activation": "tanh",
+        "alpha": 2.961222106883654e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.03550669420508911,
+        "num_nodes_per_layer": 150
+    },
+    "187": {
+        "activation": "tanh",
+        "alpha": 1.0113360621398967e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00013086882473676287,
+        "num_nodes_per_layer": 221
+    },
+    "188": {
+        "activation": "tanh",
+        "alpha": 0.00017692044041549,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.09237790969452657,
+        "num_nodes_per_layer": 41
+    },
+    "189": {
+        "activation": "relu",
+        "alpha": 3.024747164714755e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.004710985492688113,
+        "num_nodes_per_layer": 96
+    },
+    "190": {
+        "activation": "relu",
+        "alpha": 0.0024520940895977478,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00038918042328983795,
+        "num_nodes_per_layer": 184
+    },
+    "191": {
+        "activation": "tanh",
+        "alpha": 0.07164593173316097,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.027323750007456023,
+        "num_nodes_per_layer": 64
+    },
+    "192": {
+        "activation": "relu",
+        "alpha": 0.0020663822832819776,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.025441060272031597,
+        "num_nodes_per_layer": 27
+    },
+    "193": {
+        "activation": "relu",
+        "alpha": 2.711380409817702e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.16282232544738978,
+        "num_nodes_per_layer": 122
+    },
+    "194": {
+        "activation": "relu",
+        "alpha": 3.57239939124567e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00014072222586610994,
+        "num_nodes_per_layer": 181
+    },
+    "195": {
+        "activation": "relu",
+        "alpha": 4.2824521111921635e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.214619499540992,
+        "num_nodes_per_layer": 51
+    },
+    "196": {
+        "activation": "tanh",
+        "alpha": 0.0003581805273712115,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.02168314679798961,
+        "num_nodes_per_layer": 124
+    },
+    "197": {
+        "activation": "tanh",
+        "alpha": 0.001972194703323856,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.3918874135290334,
+        "num_nodes_per_layer": 26
+    },
+    "198": {
+        "activation": "relu",
+        "alpha": 8.988084333888908e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.008022208585709697,
+        "num_nodes_per_layer": 43
+    },
+    "199": {
+        "activation": "relu",
+        "alpha": 9.575098174039935e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.02686885891345128,
+        "num_nodes_per_layer": 39
+    },
+    "200": {
+        "activation": "relu",
+        "alpha": 6.098765913281077e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00018700889488223581,
+        "num_nodes_per_layer": 25
+    },
+    "201": {
+        "activation": "relu",
+        "alpha": 1.052008039152057e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.01917788869686802,
+        "num_nodes_per_layer": 115
+    },
+    "202": {
+        "activation": "tanh",
+        "alpha": 1.0132469327232445e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.005696988890176834,
+        "num_nodes_per_layer": 170
+    },
+    "203": {
+        "activation": "relu",
+        "alpha": 0.0003251817668093068,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0009949373203863535,
+        "num_nodes_per_layer": 18
+    },
+    "204": {
+        "activation": "relu",
+        "alpha": 0.04165183638737704,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.28469227153744775,
+        "num_nodes_per_layer": 38
+    },
+    "205": {
+        "activation": "relu",
+        "alpha": 1.775976252491051e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0001042972460951569,
+        "num_nodes_per_layer": 231
+    },
+    "206": {
+        "activation": "relu",
+        "alpha": 0.016125372922893032,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.029289427682999462,
+        "num_nodes_per_layer": 23
+    },
+    "207": {
+        "activation": "tanh",
+        "alpha": 7.04011331676903e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.3869684566654225,
+        "num_nodes_per_layer": 20
+    },
+    "208": {
+        "activation": "relu",
+        "alpha": 4.597283814159358e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.12593989201381214,
+        "num_nodes_per_layer": 226
+    },
+    "209": {
+        "activation": "relu",
+        "alpha": 9.617198589189985e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00012953908418009906,
+        "num_nodes_per_layer": 217
+    },
+    "210": {
+        "activation": "relu",
+        "alpha": 0.0011457248022859134,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.02563841942058836,
+        "num_nodes_per_layer": 21
+    },
+    "211": {
+        "activation": "relu",
+        "alpha": 0.09919330362011688,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.16629948104865047,
+        "num_nodes_per_layer": 143
+    },
+    "212": {
+        "activation": "relu",
+        "alpha": 0.0026958470923544664,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.02947188461999059,
+        "num_nodes_per_layer": 153
+    },
+    "213": {
+        "activation": "relu",
+        "alpha": 0.006121838850235992,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.010328775573244218,
+        "num_nodes_per_layer": 16
+    },
+    "214": {
+        "activation": "tanh",
+        "alpha": 1.5804079629609154e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.004567770245814844,
+        "num_nodes_per_layer": 30
+    },
+    "215": {
+        "activation": "tanh",
+        "alpha": 2.310030763470285e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.019564835821475706,
+        "num_nodes_per_layer": 58
+    },
+    "216": {
+        "activation": "tanh",
+        "alpha": 0.01513567861194033,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0018292180510869783,
+        "num_nodes_per_layer": 46
+    },
+    "217": {
+        "activation": "tanh",
+        "alpha": 0.00030271519091984455,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.10167398871740453,
+        "num_nodes_per_layer": 119
+    },
+    "218": {
+        "activation": "relu",
+        "alpha": 1.2864576564815133e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.20979158472244613,
+        "num_nodes_per_layer": 31
+    },
+    "219": {
+        "activation": "relu",
+        "alpha": 2.2993460739742657e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.006269386771349078,
+        "num_nodes_per_layer": 32
+    },
+    "220": {
+        "activation": "tanh",
+        "alpha": 6.978141787680365e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.018096990445419143,
+        "num_nodes_per_layer": 118
+    },
+    "221": {
+        "activation": "tanh",
+        "alpha": 3.028967469704989e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0004689591411852011,
+        "num_nodes_per_layer": 69
+    },
+    "222": {
+        "activation": "relu",
+        "alpha": 4.377856668016336e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00614640032217322,
+        "num_nodes_per_layer": 153
+    },
+    "223": {
+        "activation": "relu",
+        "alpha": 1.8216930319180612e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.10719018461311189,
+        "num_nodes_per_layer": 190
+    },
+    "224": {
+        "activation": "tanh",
+        "alpha": 1.8718413612076898e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.2133823710843413,
+        "num_nodes_per_layer": 42
+    },
+    "225": {
+        "activation": "tanh",
+        "alpha": 0.004821177171208463,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.029460970815717382,
+        "num_nodes_per_layer": 20
+    },
+    "226": {
+        "activation": "relu",
+        "alpha": 5.135775987795965e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.155403397624641,
+        "num_nodes_per_layer": 29
+    },
+    "227": {
+        "activation": "tanh",
+        "alpha": 1.3862179439161658e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0007210499500945206,
+        "num_nodes_per_layer": 47
+    },
+    "228": {
+        "activation": "relu",
+        "alpha": 9.56315408087208e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0031301344717999963,
+        "num_nodes_per_layer": 52
+    },
+    "229": {
+        "activation": "relu",
+        "alpha": 0.0014276340839684577,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.04778675688677662,
+        "num_nodes_per_layer": 80
+    },
+    "230": {
+        "activation": "tanh",
+        "alpha": 2.9958234363001476e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0015708752909272226,
+        "num_nodes_per_layer": 29
+    },
+    "231": {
+        "activation": "tanh",
+        "alpha": 2.609414410669419e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0007319711779400978,
+        "num_nodes_per_layer": 72
+    },
+    "232": {
+        "activation": "relu",
+        "alpha": 0.000804015116820272,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.029951057822745753,
+        "num_nodes_per_layer": 260
+    },
+    "233": {
+        "activation": "relu",
+        "alpha": 0.0002221777192418799,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.01202040375436501,
+        "num_nodes_per_layer": 235
+    },
+    "234": {
+        "activation": "tanh",
+        "alpha": 0.0013804775391932115,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.004633493776617423,
+        "num_nodes_per_layer": 132
+    },
+    "235": {
+        "activation": "tanh",
+        "alpha": 0.0009760461369620561,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0029995602853070554,
+        "num_nodes_per_layer": 24
+    },
+    "236": {
+        "activation": "relu",
+        "alpha": 0.036475882458234556,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.02025931490564604,
+        "num_nodes_per_layer": 20
+    },
+    "237": {
+        "activation": "relu",
+        "alpha": 5.838225988245975e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0001360680506193346,
+        "num_nodes_per_layer": 37
+    },
+    "238": {
+        "activation": "tanh",
+        "alpha": 1.4481663265111681e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0013493520112551497,
+        "num_nodes_per_layer": 48
+    },
+    "239": {
+        "activation": "tanh",
+        "alpha": 0.0004013894931877857,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.46769501010551817,
+        "num_nodes_per_layer": 174
+    },
+    "240": {
+        "activation": "tanh",
+        "alpha": 0.03833286572444017,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.17684821306136386,
+        "num_nodes_per_layer": 182
+    },
+    "241": {
+        "activation": "relu",
+        "alpha": 0.0054977200060529205,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0004383913495507604,
+        "num_nodes_per_layer": 111
+    },
+    "242": {
+        "activation": "tanh",
+        "alpha": 0.07139391620209465,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.1543709984879599,
+        "num_nodes_per_layer": 212
+    },
+    "243": {
+        "activation": "tanh",
+        "alpha": 0.0004340278789726455,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0029829267004919525,
+        "num_nodes_per_layer": 23
+    },
+    "244": {
+        "activation": "tanh",
+        "alpha": 2.564683963899022e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.01078184960922368,
+        "num_nodes_per_layer": 240
+    },
+    "245": {
+        "activation": "tanh",
+        "alpha": 7.428425950805575e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.023463744236533912,
+        "num_nodes_per_layer": 29
+    },
+    "246": {
+        "activation": "relu",
+        "alpha": 0.0007965381010765322,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.005020974034928368,
+        "num_nodes_per_layer": 18
+    },
+    "247": {
+        "activation": "relu",
+        "alpha": 2.2216895177985335e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00033587381554504153,
+        "num_nodes_per_layer": 22
+    },
+    "248": {
+        "activation": "tanh",
+        "alpha": 4.039009420067191e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.48612926434249726,
+        "num_nodes_per_layer": 156
+    },
+    "249": {
+        "activation": "relu",
+        "alpha": 6.878943219966051e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00030443442679213887,
+        "num_nodes_per_layer": 192
+    },
+    "250": {
+        "activation": "tanh",
+        "alpha": 1.4714146336861152e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.05171512615469718,
+        "num_nodes_per_layer": 137
+    },
+    "251": {
+        "activation": "tanh",
+        "alpha": 3.13995908507209e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.06490665832186054,
+        "num_nodes_per_layer": 23
+    },
+    "252": {
+        "activation": "relu",
+        "alpha": 1.9552902383918473e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0922277756011398,
+        "num_nodes_per_layer": 236
+    },
+    "253": {
+        "activation": "tanh",
+        "alpha": 4.5542534088169246e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00023057091565792753,
+        "num_nodes_per_layer": 62
+    },
+    "254": {
+        "activation": "tanh",
+        "alpha": 8.872695173491665e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0028784316533739347,
+        "num_nodes_per_layer": 57
+    },
+    "255": {
+        "activation": "relu",
+        "alpha": 0.022516875868588054,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.03510666998436852,
+        "num_nodes_per_layer": 54
+    },
+    "256": {
+        "activation": "tanh",
+        "alpha": 0.011097610462275871,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.02275040589640027,
+        "num_nodes_per_layer": 101
+    },
+    "257": {
+        "activation": "relu",
+        "alpha": 0.0006607209735189807,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0003593110965012644,
+        "num_nodes_per_layer": 126
+    },
+    "258": {
+        "activation": "relu",
+        "alpha": 0.001206053783001282,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0001847726964415817,
+        "num_nodes_per_layer": 19
+    },
+    "259": {
+        "activation": "tanh",
+        "alpha": 0.054828755675886555,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.001965810983472645,
+        "num_nodes_per_layer": 140
+    },
+    "260": {
+        "activation": "relu",
+        "alpha": 1.2917349408430148e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.06720344703556347,
+        "num_nodes_per_layer": 33
+    },
+    "261": {
+        "activation": "tanh",
+        "alpha": 3.111931329093808e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.020446162305949048,
+        "num_nodes_per_layer": 46
+    },
+    "262": {
+        "activation": "tanh",
+        "alpha": 5.349565494747873e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.009153173279889055,
+        "num_nodes_per_layer": 17
+    },
+    "263": {
+        "activation": "relu",
+        "alpha": 0.006198479224692387,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.014268027658810419,
+        "num_nodes_per_layer": 129
+    },
+    "264": {
+        "activation": "relu",
+        "alpha": 0.0008687036454256597,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0006774019004393355,
+        "num_nodes_per_layer": 45
+    },
+    "265": {
+        "activation": "tanh",
+        "alpha": 4.3294221842235814e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.000281468595750089,
+        "num_nodes_per_layer": 27
+    },
+    "266": {
+        "activation": "relu",
+        "alpha": 0.0007496609275406779,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.13527923761069724,
+        "num_nodes_per_layer": 210
+    },
+    "267": {
+        "activation": "tanh",
+        "alpha": 0.003390404942501049,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.07448276913275466,
+        "num_nodes_per_layer": 100
+    },
+    "268": {
+        "activation": "tanh",
+        "alpha": 0.00018627797724995565,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00040704746992483945,
+        "num_nodes_per_layer": 23
+    },
+    "269": {
+        "activation": "relu",
+        "alpha": 0.00806699855484469,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.05135833469783017,
+        "num_nodes_per_layer": 72
+    },
+    "270": {
+        "activation": "relu",
+        "alpha": 0.00011224403783772566,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.1699789999788019,
+        "num_nodes_per_layer": 94
+    },
+    "271": {
+        "activation": "relu",
+        "alpha": 9.129138790726052e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.048658654250187,
+        "num_nodes_per_layer": 258
+    },
+    "272": {
+        "activation": "tanh",
+        "alpha": 2.5642826573440806e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.05147646733940134,
+        "num_nodes_per_layer": 89
+    },
+    "273": {
+        "activation": "tanh",
+        "alpha": 1.3561490126661661e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.06529531102534616,
+        "num_nodes_per_layer": 17
+    },
+    "274": {
+        "activation": "relu",
+        "alpha": 1.640149217128863e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00035541228242477713,
+        "num_nodes_per_layer": 37
+    },
+    "275": {
+        "activation": "relu",
+        "alpha": 0.09506179832307086,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.18967566261573757,
+        "num_nodes_per_layer": 83
+    },
+    "276": {
+        "activation": "tanh",
+        "alpha": 2.9904121260474288e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0020651803416814984,
+        "num_nodes_per_layer": 148
+    },
+    "277": {
+        "activation": "tanh",
+        "alpha": 0.00033823114958186364,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.013974704479102795,
+        "num_nodes_per_layer": 76
+    },
+    "278": {
+        "activation": "relu",
+        "alpha": 0.00041775917764847126,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.11267641491357383,
+        "num_nodes_per_layer": 64
+    },
+    "279": {
+        "activation": "tanh",
+        "alpha": 2.245461304986297e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.08261579745833625,
+        "num_nodes_per_layer": 67
+    },
+    "280": {
+        "activation": "tanh",
+        "alpha": 7.668583666862475e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0006546919420792529,
+        "num_nodes_per_layer": 85
+    },
+    "281": {
+        "activation": "relu",
+        "alpha": 0.0977428658128719,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.02255282705158587,
+        "num_nodes_per_layer": 144
+    },
+    "282": {
+        "activation": "tanh",
+        "alpha": 2.880244381893903e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.014932799546568483,
+        "num_nodes_per_layer": 26
+    },
+    "283": {
+        "activation": "tanh",
+        "alpha": 1.0164071991058263e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0010234832396714333,
+        "num_nodes_per_layer": 67
+    },
+    "284": {
+        "activation": "tanh",
+        "alpha": 0.044063142876572696,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.13010290961384638,
+        "num_nodes_per_layer": 26
+    },
+    "285": {
+        "activation": "relu",
+        "alpha": 5.6120472701863713e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.04927488977630309,
+        "num_nodes_per_layer": 63
+    },
+    "286": {
+        "activation": "tanh",
+        "alpha": 0.002382590314059012,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0003167165006421652,
+        "num_nodes_per_layer": 131
+    },
+    "287": {
+        "activation": "relu",
+        "alpha": 0.05491458760445182,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0009290551051249326,
+        "num_nodes_per_layer": 31
+    },
+    "288": {
+        "activation": "relu",
+        "alpha": 3.1425138403685167e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.07464986939400742,
+        "num_nodes_per_layer": 19
+    },
+    "289": {
+        "activation": "tanh",
+        "alpha": 1.5910418420486778e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.009319833064936821,
+        "num_nodes_per_layer": 50
+    },
+    "290": {
+        "activation": "tanh",
+        "alpha": 0.02506109680764795,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.011804437796693774,
+        "num_nodes_per_layer": 221
+    },
+    "291": {
+        "activation": "tanh",
+        "alpha": 3.256566225774315e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0008889902670305079,
+        "num_nodes_per_layer": 99
+    },
+    "292": {
+        "activation": "tanh",
+        "alpha": 0.00024659344473077643,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0019625177195434643,
+        "num_nodes_per_layer": 21
+    },
+    "293": {
+        "activation": "tanh",
+        "alpha": 2.2485449803584002e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.008629930172514618,
+        "num_nodes_per_layer": 21
+    },
+    "294": {
+        "activation": "relu",
+        "alpha": 0.0021721300271457067,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00020058553100730245,
+        "num_nodes_per_layer": 57
+    },
+    "295": {
+        "activation": "tanh",
+        "alpha": 9.87750460848698e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.005128819478662227,
+        "num_nodes_per_layer": 50
+    },
+    "296": {
+        "activation": "relu",
+        "alpha": 0.00018732304830787147,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.004997059631253401,
+        "num_nodes_per_layer": 18
+    },
+    "297": {
+        "activation": "relu",
+        "alpha": 1.6150378050448237e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.06297977725136351,
+        "num_nodes_per_layer": 68
+    },
+    "298": {
+        "activation": "tanh",
+        "alpha": 0.018491854555554653,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.004667891995581929,
+        "num_nodes_per_layer": 253
+    },
+    "299": {
+        "activation": "relu",
+        "alpha": 1.4554742532635847e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.009831998234849048,
+        "num_nodes_per_layer": 64
+    },
+    "300": {
+        "activation": "tanh",
+        "alpha": 0.000872329638331937,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.36946237074352356,
+        "num_nodes_per_layer": 28
+    },
+    "301": {
+        "activation": "relu",
+        "alpha": 5.282356994136069e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.08942532814349108,
+        "num_nodes_per_layer": 48
+    },
+    "302": {
+        "activation": "relu",
+        "alpha": 0.00015782405713907124,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0014848819976376944,
+        "num_nodes_per_layer": 176
+    },
+    "303": {
+        "activation": "relu",
+        "alpha": 4.585924751172369e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0004802221130702913,
+        "num_nodes_per_layer": 196
+    },
+    "304": {
+        "activation": "relu",
+        "alpha": 8.17759690671725e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.18366723080234035,
+        "num_nodes_per_layer": 152
+    },
+    "305": {
+        "activation": "relu",
+        "alpha": 0.06349794810218494,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.022265374401997252,
+        "num_nodes_per_layer": 25
+    },
+    "306": {
+        "activation": "relu",
+        "alpha": 3.672299787493479e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00892966944266777,
+        "num_nodes_per_layer": 119
+    },
+    "307": {
+        "activation": "relu",
+        "alpha": 2.9952943538998995e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.10707581025077743,
+        "num_nodes_per_layer": 72
+    },
+    "308": {
+        "activation": "relu",
+        "alpha": 7.693087624665237e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0021061294021426963,
+        "num_nodes_per_layer": 63
+    },
+    "309": {
+        "activation": "relu",
+        "alpha": 1.0262384545413322e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00023564325567575632,
+        "num_nodes_per_layer": 31
+    },
+    "310": {
+        "activation": "tanh",
+        "alpha": 1.2236253605764831e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.019805971324695415,
+        "num_nodes_per_layer": 42
+    },
+    "311": {
+        "activation": "relu",
+        "alpha": 6.725475646119676e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.03170739184412075,
+        "num_nodes_per_layer": 39
+    },
+    "312": {
+        "activation": "relu",
+        "alpha": 2.6172601274400535e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.12479293950559218,
+        "num_nodes_per_layer": 34
+    },
+    "313": {
+        "activation": "relu",
+        "alpha": 0.0014618521171712877,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00013266807480853552,
+        "num_nodes_per_layer": 37
+    },
+    "314": {
+        "activation": "relu",
+        "alpha": 0.042641150188151455,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.028824329340307875,
+        "num_nodes_per_layer": 32
+    },
+    "315": {
+        "activation": "relu",
+        "alpha": 0.0010577763955377237,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.005044886924118334,
+        "num_nodes_per_layer": 180
+    },
+    "316": {
+        "activation": "relu",
+        "alpha": 1.916034363805212e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0001430368748682209,
+        "num_nodes_per_layer": 126
+    },
+    "317": {
+        "activation": "relu",
+        "alpha": 4.788769983505691e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.061501040840664635,
+        "num_nodes_per_layer": 152
+    },
+    "318": {
+        "activation": "tanh",
+        "alpha": 0.059822167215898336,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.001099862686309862,
+        "num_nodes_per_layer": 184
+    },
+    "319": {
+        "activation": "tanh",
+        "alpha": 0.0016676920742403204,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0001111430109860439,
+        "num_nodes_per_layer": 59
+    },
+    "320": {
+        "activation": "tanh",
+        "alpha": 0.000389174974640062,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00015068808238676506,
+        "num_nodes_per_layer": 201
+    },
+    "321": {
+        "activation": "relu",
+        "alpha": 0.0010158465251231404,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0001959316348367456,
+        "num_nodes_per_layer": 31
+    },
+    "322": {
+        "activation": "relu",
+        "alpha": 1.6144388516330396e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.008488128832772694,
+        "num_nodes_per_layer": 19
+    },
+    "323": {
+        "activation": "relu",
+        "alpha": 0.0003925283683736561,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.02987801214767981,
+        "num_nodes_per_layer": 163
+    },
+    "324": {
+        "activation": "relu",
+        "alpha": 0.0002695467577599501,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.004050955040745402,
+        "num_nodes_per_layer": 139
+    },
+    "325": {
+        "activation": "relu",
+        "alpha": 0.02265373102715431,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.01544080914799481,
+        "num_nodes_per_layer": 114
+    },
+    "326": {
+        "activation": "tanh",
+        "alpha": 0.00011862675901754215,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.02585579954811551,
+        "num_nodes_per_layer": 230
+    },
+    "327": {
+        "activation": "relu",
+        "alpha": 0.0028944329735983796,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.000872944889640915,
+        "num_nodes_per_layer": 43
+    },
+    "328": {
+        "activation": "tanh",
+        "alpha": 1.8788515742850992e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0016812900403402917,
+        "num_nodes_per_layer": 61
+    },
+    "329": {
+        "activation": "tanh",
+        "alpha": 0.00046204090565793004,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00010480108670026664,
+        "num_nodes_per_layer": 16
+    },
+    "330": {
+        "activation": "tanh",
+        "alpha": 1.6608414496733104e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.013061431371130899,
+        "num_nodes_per_layer": 66
+    },
+    "331": {
+        "activation": "tanh",
+        "alpha": 0.038951332266777675,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00026368462211561784,
+        "num_nodes_per_layer": 41
+    },
+    "332": {
+        "activation": "relu",
+        "alpha": 0.017592807395795565,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00030646036210674996,
+        "num_nodes_per_layer": 34
+    },
+    "333": {
+        "activation": "tanh",
+        "alpha": 3.3960108665818965e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.017726506424332954,
+        "num_nodes_per_layer": 37
+    },
+    "334": {
+        "activation": "relu",
+        "alpha": 0.05374809410886803,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00015457819868488606,
+        "num_nodes_per_layer": 32
+    },
+    "335": {
+        "activation": "tanh",
+        "alpha": 0.00041953936612101645,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.004870854553786168,
+        "num_nodes_per_layer": 44
+    },
+    "336": {
+        "activation": "tanh",
+        "alpha": 3.2635234760378836e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00205252458088082,
+        "num_nodes_per_layer": 224
+    },
+    "337": {
+        "activation": "relu",
+        "alpha": 0.001180374286116141,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.022537212289072885,
+        "num_nodes_per_layer": 207
+    },
+    "338": {
+        "activation": "relu",
+        "alpha": 0.017465923788063047,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0001761058517671733,
+        "num_nodes_per_layer": 71
+    },
+    "339": {
+        "activation": "tanh",
+        "alpha": 1.1755460983159802e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.013647247492386692,
+        "num_nodes_per_layer": 18
+    },
+    "340": {
+        "activation": "tanh",
+        "alpha": 0.00022483006120331135,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.13423481674149929,
+        "num_nodes_per_layer": 111
+    },
+    "341": {
+        "activation": "tanh",
+        "alpha": 0.0010909371580505348,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0044801484077890375,
+        "num_nodes_per_layer": 149
+    },
+    "342": {
+        "activation": "relu",
+        "alpha": 0.013975714686562692,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.014240843055234447,
+        "num_nodes_per_layer": 44
+    },
+    "343": {
+        "activation": "relu",
+        "alpha": 0.001712045000871556,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0039130474024979735,
+        "num_nodes_per_layer": 23
+    },
+    "344": {
+        "activation": "relu",
+        "alpha": 1.1892270099592215e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.02269251169594607,
+        "num_nodes_per_layer": 41
+    },
+    "345": {
+        "activation": "tanh",
+        "alpha": 2.869282895295064e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.002231625238319968,
+        "num_nodes_per_layer": 29
+    },
+    "346": {
+        "activation": "relu",
+        "alpha": 5.296753072420284e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00012643214346819408,
+        "num_nodes_per_layer": 65
+    },
+    "347": {
+        "activation": "relu",
+        "alpha": 2.019483354716788e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0003907756012108048,
+        "num_nodes_per_layer": 17
+    },
+    "348": {
+        "activation": "relu",
+        "alpha": 5.638168531344374e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.3434907726382262,
+        "num_nodes_per_layer": 38
+    },
+    "349": {
+        "activation": "relu",
+        "alpha": 0.00041462669399125083,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.35909663098126227,
+        "num_nodes_per_layer": 47
+    },
+    "350": {
+        "activation": "tanh",
+        "alpha": 1.1023579170775415e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.010086717375793555,
+        "num_nodes_per_layer": 135
+    },
+    "351": {
+        "activation": "relu",
+        "alpha": 4.3918560993998355e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00016339421544326138,
+        "num_nodes_per_layer": 41
+    },
+    "352": {
+        "activation": "tanh",
+        "alpha": 0.06287881017957667,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0003272535926249492,
+        "num_nodes_per_layer": 55
+    },
+    "353": {
+        "activation": "relu",
+        "alpha": 8.578018741335023e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.020228325797059552,
+        "num_nodes_per_layer": 78
+    },
+    "354": {
+        "activation": "relu",
+        "alpha": 1.6138852296760638e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.010200739281699803,
+        "num_nodes_per_layer": 30
+    },
+    "355": {
+        "activation": "relu",
+        "alpha": 0.028623824840267594,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0003042839888675854,
+        "num_nodes_per_layer": 146
+    },
+    "356": {
+        "activation": "tanh",
+        "alpha": 0.005824571425496501,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00035513365213693,
+        "num_nodes_per_layer": 58
+    },
+    "357": {
+        "activation": "relu",
+        "alpha": 7.951418572155008e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0011405249744945835,
+        "num_nodes_per_layer": 28
+    },
+    "358": {
+        "activation": "relu",
+        "alpha": 2.085657737442454e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.15912700840684452,
+        "num_nodes_per_layer": 250
+    },
+    "359": {
+        "activation": "tanh",
+        "alpha": 0.009228126359750597,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.000551504702112087,
+        "num_nodes_per_layer": 21
+    },
+    "360": {
+        "activation": "relu",
+        "alpha": 4.3141863441335885e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.1853146092342358,
+        "num_nodes_per_layer": 55
+    },
+    "361": {
+        "activation": "relu",
+        "alpha": 0.0005748507026716598,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.034983495893699805,
+        "num_nodes_per_layer": 120
+    },
+    "362": {
+        "activation": "relu",
+        "alpha": 6.406351689522896e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0010742971076497657,
+        "num_nodes_per_layer": 28
+    },
+    "363": {
+        "activation": "relu",
+        "alpha": 1.1302635199853323e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0012296692411960046,
+        "num_nodes_per_layer": 16
+    },
+    "364": {
+        "activation": "relu",
+        "alpha": 0.01011271066954508,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.06985899067834556,
+        "num_nodes_per_layer": 100
+    },
+    "365": {
+        "activation": "relu",
+        "alpha": 0.011899497937481684,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0001937414562662969,
+        "num_nodes_per_layer": 49
+    },
+    "366": {
+        "activation": "tanh",
+        "alpha": 2.489195830434573e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.3202355790061683,
+        "num_nodes_per_layer": 19
+    },
+    "367": {
+        "activation": "relu",
+        "alpha": 0.00013660279832762706,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0868738696881929,
+        "num_nodes_per_layer": 115
+    },
+    "368": {
+        "activation": "tanh",
+        "alpha": 2.737858584183354e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0010950330132147774,
+        "num_nodes_per_layer": 151
+    },
+    "369": {
+        "activation": "relu",
+        "alpha": 2.6953562027051625e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0006856058001769438,
+        "num_nodes_per_layer": 95
+    },
+    "370": {
+        "activation": "relu",
+        "alpha": 0.00041779051518253874,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.19369717287609234,
+        "num_nodes_per_layer": 65
+    },
+    "371": {
+        "activation": "tanh",
+        "alpha": 0.0003274829777619342,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.000785051284608104,
+        "num_nodes_per_layer": 117
+    },
+    "372": {
+        "activation": "relu",
+        "alpha": 0.006664246388737132,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.07378739076827734,
+        "num_nodes_per_layer": 33
+    },
+    "373": {
+        "activation": "tanh",
+        "alpha": 5.077437164952203e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.05877819765067778,
+        "num_nodes_per_layer": 38
+    },
+    "374": {
+        "activation": "tanh",
+        "alpha": 0.00011662048290425451,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00017056386552368176,
+        "num_nodes_per_layer": 168
+    },
+    "375": {
+        "activation": "tanh",
+        "alpha": 3.0265176795717875e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.002150277250464441,
+        "num_nodes_per_layer": 33
+    },
+    "376": {
+        "activation": "relu",
+        "alpha": 7.5873043537816795e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.23219474935668205,
+        "num_nodes_per_layer": 45
+    },
+    "377": {
+        "activation": "relu",
+        "alpha": 3.4335007544089364e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.021896881136270578,
+        "num_nodes_per_layer": 114
+    },
+    "378": {
+        "activation": "tanh",
+        "alpha": 1.0039649068054458e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.06532147131286802,
+        "num_nodes_per_layer": 230
+    },
+    "379": {
+        "activation": "relu",
+        "alpha": 6.142048646491726e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.00015074350689390524,
+        "num_nodes_per_layer": 43
+    },
+    "380": {
+        "activation": "relu",
+        "alpha": 0.000100555741826745,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.002311195937265375,
+        "num_nodes_per_layer": 44
+    },
+    "381": {
+        "activation": "tanh",
+        "alpha": 0.004030934777454935,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.0006083585966879066,
+        "num_nodes_per_layer": 100
+    },
+    "382": {
+        "activation": "tanh",
+        "alpha": 0.019095913006555294,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0012368336937911236,
+        "num_nodes_per_layer": 23
+    },
+    "383": {
+        "activation": "relu",
+        "alpha": 0.002701374206594269,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.04346411770600176,
+        "num_nodes_per_layer": 27
+    },
+    "384": {
+        "activation": "relu",
+        "alpha": 5.302217988627078e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.008093897579534198,
+        "num_nodes_per_layer": 33
+    },
+    "385": {
+        "activation": "relu",
+        "alpha": 1.2250683839788186e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00028842637878128877,
+        "num_nodes_per_layer": 50
+    },
+    "386": {
+        "activation": "tanh",
+        "alpha": 2.6652532618410573e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.005208037155912245,
+        "num_nodes_per_layer": 238
+    },
+    "387": {
+        "activation": "relu",
+        "alpha": 0.0011621270357846454,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.008477317394754385,
+        "num_nodes_per_layer": 247
+    },
+    "388": {
+        "activation": "tanh",
+        "alpha": 1.2638222277299391e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0009602469419871048,
+        "num_nodes_per_layer": 16
+    },
+    "389": {
+        "activation": "tanh",
+        "alpha": 0.004353627257559865,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.0001011595807851127,
+        "num_nodes_per_layer": 36
+    },
+    "390": {
+        "activation": "relu",
+        "alpha": 0.07001106157596018,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.07889099584848326,
+        "num_nodes_per_layer": 142
+    },
+    "391": {
+        "activation": "tanh",
+        "alpha": 2.4436092347655708e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0008169198496478988,
+        "num_nodes_per_layer": 61
+    },
+    "392": {
+        "activation": "relu",
+        "alpha": 6.964003334399092e-05,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.080240304449362,
+        "num_nodes_per_layer": 258
+    },
+    "393": {
+        "activation": "relu",
+        "alpha": 0.05978745975193052,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.0005301279522933162,
+        "num_nodes_per_layer": 23
+    },
+    "394": {
+        "activation": "relu",
+        "alpha": 0.004874511894680506,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.022510098008558185,
+        "num_nodes_per_layer": 47
+    },
+    "395": {
+        "activation": "relu",
+        "alpha": 3.6260173304001338e-06,
+        "early_stopping": true,
+        "hidden_layer_depth": 3,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.005476114324631275,
+        "num_nodes_per_layer": 194
+    },
+    "396": {
+        "activation": "relu",
+        "alpha": 2.361670783866149e-07,
+        "early_stopping": true,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.004528251840727955,
+        "num_nodes_per_layer": 23
+    },
+    "397": {
+        "activation": "relu",
+        "alpha": 0.00015064625635315894,
+        "early_stopping": true,
+        "hidden_layer_depth": 2,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.00019142849300830172,
+        "num_nodes_per_layer": 34
+    },
+    "398": {
+        "activation": "relu",
+        "alpha": 5.727818164815804e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 2,
+        "learning_rate": "constant",
+        "learning_rate_init": 0.00041030183925713223,
+        "num_nodes_per_layer": 55
+    },
+    "399": {
+        "activation": "tanh",
+        "alpha": 1.9946843118064507e-07,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.14392121460940382,
+        "num_nodes_per_layer": 31
+    },
+    "400": {
+        "activation": "relu",
+        "alpha": 1.5189875934711434e-06,
+        "early_stopping": false,
+        "hidden_layer_depth": 3,
+        "learning_rate": "adaptive",
+        "learning_rate_init": 0.4258152723422498,
+        "num_nodes_per_layer": 78
+    },
+    "401": {
+        "activation": "tanh",
+        "alpha": 4.187697608855627e-05,
+        "early_stopping": false,
+        "hidden_layer_depth": 1,
+        "learning_rate": "invscaling",
+        "learning_rate_init": 0.425938980542339,
+        "num_nodes_per_layer": 27
+    }
+}

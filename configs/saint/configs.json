@@ -1,0 +1,3611 @@
+{
+    "1": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "2": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "3": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "4": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "5": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "6": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "7": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "8": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "9": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "10": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "11": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "12": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "13": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "14": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "15": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "16": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "17": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "18": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "19": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "20": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "21": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "22": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "23": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "24": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "25": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "26": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "27": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "28": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "29": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "30": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "31": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "32": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "33": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "34": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "35": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "36": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "37": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "38": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "39": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "40": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "41": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "42": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "43": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "44": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "45": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "46": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "47": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "48": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "49": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "50": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "51": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "52": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "53": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "54": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "55": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "56": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "57": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "58": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "59": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "60": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "61": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "62": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "63": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "64": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "65": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "66": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "67": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "68": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "69": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "70": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "71": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "72": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "73": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "74": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "75": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "76": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "77": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "78": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "79": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "80": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "81": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "82": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "83": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "84": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "85": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "86": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "87": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "88": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "89": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "90": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "91": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "92": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "93": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "94": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "95": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "96": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "97": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "98": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "99": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "100": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "101": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "102": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "103": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "104": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "105": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "106": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "107": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "108": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "109": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "110": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "111": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "112": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "113": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "114": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "115": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "116": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "117": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "118": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "119": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "120": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "121": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "122": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "123": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "124": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "125": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "126": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "127": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "128": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "129": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "130": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "131": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "132": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "133": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "134": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "135": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "136": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "137": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "138": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "139": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "140": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "141": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "142": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "143": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "144": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "145": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "146": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "147": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "148": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "149": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "150": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "151": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "152": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "153": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "154": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "155": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "156": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "157": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "158": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "159": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "160": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "161": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "162": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "163": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "164": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "165": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "166": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "167": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "168": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "169": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "170": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "171": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "172": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "173": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "174": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "175": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "176": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "177": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "178": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "179": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "180": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "181": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "182": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "183": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "184": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "185": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "186": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "187": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "188": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "189": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "190": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "191": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "192": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "193": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "194": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "195": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "196": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "197": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "198": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "199": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "200": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "201": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "202": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "203": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "204": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "205": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "206": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "207": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "208": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "209": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "210": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "211": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "212": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "213": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "214": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "215": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "216": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "217": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "218": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "219": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "220": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "221": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "222": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "223": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "224": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "225": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "226": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "227": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "228": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "229": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "230": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "231": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "232": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "233": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "234": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "235": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "236": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "237": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "238": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "239": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "240": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "241": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "242": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "243": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "244": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "245": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "246": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "247": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "248": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "249": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "250": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "251": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "252": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "253": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "254": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "255": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "256": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "257": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "258": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "259": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "260": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "261": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "262": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "263": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "264": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "265": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "266": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "267": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "268": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "269": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "270": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "271": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "272": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "273": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "274": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "275": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "276": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "277": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "278": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "279": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "280": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "281": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "282": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "283": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "284": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "285": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "286": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "287": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "288": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "289": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "290": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "291": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "292": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "293": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "294": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "295": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "296": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "297": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "298": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "299": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "300": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "301": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "302": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "303": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "304": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "305": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "306": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "307": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "308": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 2
+    },
+    "309": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "310": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "311": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "312": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "313": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "314": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "315": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "316": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "317": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "318": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "319": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "320": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "321": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "322": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "323": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "324": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "325": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "326": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "327": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 2
+    },
+    "328": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "329": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "330": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "331": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "332": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "333": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "334": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "335": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "336": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "337": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "338": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "339": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "340": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "341": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "342": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "343": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "344": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "345": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "346": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "347": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "348": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "349": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "350": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "351": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 256,
+        "params__dropout": 0,
+        "params__heads": 4
+    },
+    "352": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "353": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "354": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "355": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 8
+    },
+    "356": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "357": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 4
+    },
+    "358": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "359": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.1,
+        "params__heads": 2
+    },
+    "360": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "361": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "362": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "363": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "364": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "365": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 256,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "366": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.8,
+        "params__heads": 4
+    },
+    "367": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "368": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    },
+    "369": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "370": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "371": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "372": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0.4,
+        "params__heads": 8
+    },
+    "373": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 4
+    },
+    "374": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 32,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "375": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "376": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 4
+    },
+    "377": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "378": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "379": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 256,
+        "params__dropout": 0.4,
+        "params__heads": 4
+    },
+    "380": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 8
+    },
+    "381": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.7,
+        "params__heads": 2
+    },
+    "382": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 32,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "383": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 2
+    },
+    "384": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.8,
+        "params__heads": 8
+    },
+    "385": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 256,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "386": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 128,
+        "params__dropout": 0.7,
+        "params__heads": 8
+    },
+    "387": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.2,
+        "params__heads": 4
+    },
+    "388": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 256,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "389": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.5,
+        "params__heads": 8
+    },
+    "390": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "391": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0,
+        "params__heads": 2
+    },
+    "392": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 32,
+        "params__dropout": 0.4,
+        "params__heads": 2
+    },
+    "393": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "394": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "395": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 64,
+        "params__dropout": 0.6,
+        "params__heads": 8
+    },
+    "396": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 2,
+        "params__dim": 64,
+        "params__dropout": 0.3,
+        "params__heads": 4
+    },
+    "397": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 6,
+        "params__dim": 128,
+        "params__dropout": 0.2,
+        "params__heads": 8
+    },
+    "398": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 12,
+        "params__dim": 32,
+        "params__dropout": 0.5,
+        "params__heads": 2
+    },
+    "399": {
+        "args__batch_size": 32,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 128,
+        "params__dropout": 0.6,
+        "params__heads": 2
+    },
+    "400": {
+        "args__batch_size": 64,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 3,
+        "params__dim": 64,
+        "params__dropout": 0.1,
+        "params__heads": 4
+    },
+    "401": {
+        "args__batch_size": 256,
+        "args__lr": 0.0001,
+        "args__val_batch_size": 32,
+        "params__depth": 1,
+        "params__dim": 32,
+        "params__dropout": 0.3,
+        "params__heads": 8
+    }
+}
